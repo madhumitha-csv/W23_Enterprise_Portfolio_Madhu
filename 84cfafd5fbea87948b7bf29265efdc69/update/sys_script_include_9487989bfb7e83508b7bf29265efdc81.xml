@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_dihni_w23_ente_7.W23_PortfolioUtils_Madhu</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>W23_PortfolioUtils_Madhu</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var W23_PortfolioUtils = Class.create();
+
+W23_PortfolioUtils.prototype = {
+    initialize: function() {
+    },
+
+    getPortfolioStatus: function() {
+        return "Portfolio status utility";
+    },
+
+    type: 'W23_PortfolioUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>madhuc</sys_created_by>
+        <sys_created_on>2026-08-24 10:09:15</sys_created_on>
+        <sys_id>9487989bfb7e83508b7bf29265efdc81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>W23_PortfolioUtils_Madhu</sys_name>
+        <sys_package display_value="W23 Enterprise Portfolio_Madhu" source="x_dihni_w23_ente_7">84cfafd5fbea87948b7bf29265efdc69</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="W23 Enterprise Portfolio_Madhu">84cfafd5fbea87948b7bf29265efdc69</sys_scope>
+        <sys_update_name>sys_script_include_9487989bfb7e83508b7bf29265efdc81</sys_update_name>
+        <sys_updated_by>madhuc</sys_updated_by>
+        <sys_updated_on>2026-08-24 10:09:15</sys_updated_on>
+    </sys_script_include>
+</record_update>
