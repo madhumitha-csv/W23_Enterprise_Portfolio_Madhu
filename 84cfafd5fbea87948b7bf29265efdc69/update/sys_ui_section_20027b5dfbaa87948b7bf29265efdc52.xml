@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="20027b5dfbaa87948b7bf29265efdc52" sys_domain="global" table="x_dihni_w23_ente_7_w23_portfolio_item_madhu" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_dihni_w23_ente_7_w23_portfolio_item_madhu</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>madhuc</sys_created_by>
+            <sys_created_on>2026-08-06 10:39:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20027b5dfbaa87948b7bf29265efdc52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dihni_w23_ente_7_w23_portfolio_item_madhu</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="W23 Enterprise Portfolio_Madhu" source="x_dihni_w23_ente_7">84cfafd5fbea87948b7bf29265efdc69</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="W23 Enterprise Portfolio_Madhu">84cfafd5fbea87948b7bf29265efdc69</sys_scope>
+            <sys_update_name>sys_ui_section_20027b5dfbaa87948b7bf29265efdc52</sys_update_name>
+            <sys_updated_by>madhuc</sys_updated_by>
+            <sys_updated_on>2026-08-06 10:39:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
